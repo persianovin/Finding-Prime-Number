@@ -16,5 +16,3 @@ if is_prime(a):
     print(f'{a} is a prime number')
 else:
     print(f'{a} is NOT a prime number')
-
-#ed1
